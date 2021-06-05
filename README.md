@@ -1,2 +1,2 @@
 # Apeperia
-O projeto visa construir um portal familiar para deficientes.
+O projeto visa construir um portal para deficientes.
